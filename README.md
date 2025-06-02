@@ -19,5 +19,5 @@ All the data used as the knowledge base for the agent was created using a synthe
 - **Natural Language Processing:** Applied embedding techniques and retrieval pipelines for effective context-based QA.
 - **Generative AI:** Built a question-answering agent using Retrieval-Augmented Generation (RAG).
 - **Product Design & Prototyping:** Created an end-to-end interactive demo that simulates a customer-facing product.
-- **Documentation & Communication: Delivered clean, well-documented code and concise summaries to explain the work that was done.
+- **Documentation & Communication:** Delivered clean, well-documented code and concise summaries to explain the work that was done.
 
