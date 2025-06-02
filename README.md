@@ -1,8 +1,8 @@
 # Project overview
 
-The objective of this project was to build a question answering agent for the company Healthym. Healthym is a fictional company in the healthy foods market. The agent should be able to ask questions about the company and its products by consulting a knowledge database and generanting and use it as a context to provide a answer to a user.
+This project involved designing and building a question-answering agent for Healthym, a fictional company in the healthy foods market. The goal was to simulate a real-world use case where a virtual assistant can accurately answer questions about a company’s products, recipes, and suppliers by retrieving relevant context from a structured knowledge base.
 
-All the data used as the knowledge base for the agent was created using a synthetic text data generator. This generator was built using an open source large language model. The data generated contains information about the company description, its products, recipes and suppliers and is composed of 69 textual documents. To know more about the generator, how it works or to use it on you own projects, please consult the page: https://github.com/diogofn1/Synthetic-Text-Data-Generator
+All the data used as the knowledge base for the agent was created using a synthetic text data generator. This generator was built using an open source large language model. The data generated is composed of 69 text documents contains information about the company description, its products, recipes and suppliers. To know more about the generator, how it works or to use it on you own projects, please consult the page: https://github.com/diogofn1/Synthetic-Text-Data-Generator
 
 # Technologies & Tools
 - **Programming language:** Python
@@ -14,8 +14,10 @@ All the data used as the knowledge base for the agent was created using a synthe
   - **User interface / Model deployment**: Gradio
  
 # Skills employed in the project
-- **Data geration:** preprocessing the dataset through data cleaning, transformation, and handling imbalanced data for effective modeling.
-- **Machine learning:** use of large language models for synthetic data generation, text embedding, and natural language processing.
-- **Generative AI**: building a chat agent using Retrieve Augmented Generation.
-- **Documentation:** synthesizing the work through organized code and concise textual summaries.
+- **Synthetic Data Generation:** Developed a synthetic dataset using an open-source LLM to simulate realistic business knowledge.
+- **Data Engineering:** Structured and indexed unstructured documents in a vector database for scalable search and retrieval.
+- **Natural Language Processing:** Applied embedding techniques and retrieval pipelines for effective context-based QA.
+- **Generative AI:** Built a question-answering agent using Retrieval-Augmented Generation (RAG).
+- **Product Design & Prototyping:** Created an end-to-end interactive demo that simulates a customer-facing product.
+- **Documentation & Communication: Delivered clean, well-documented code and concise summaries to explain the work that was done.
 
